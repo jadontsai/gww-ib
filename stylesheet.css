@@ -1,0 +1,25 @@
+* {
+    margin: 1;
+    padding: 0; /* prolly need to fix this ltr ngl*/
+}
+
+.main{
+    width: 100%;
+    background-color: #9fc1ff;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+}
+
+.button {
+    margin-right: 70px; /* Adds space to the right of each image */
+}
+
+.navigationBar {
+    width: 100%;
+    background-color: #6279a3;
+}
+
+.center{
+    text-align: center;
+}
